@@ -60,7 +60,7 @@ Example:
 | Model | RMSE ↓ | MSE ↓ | R² ↑ | Notes |
 |--------|---------|--------|------|-------|
 | **Linear Regression** | 44.30 | 1962.93 | 0.578 | Baseline linear model |
-| **Random Forest** | 41.29 | 1704.79 | 0.834 | Best overall performer |
+| **Random Forest** | 41.29 | 1704.79 | 0.634 | Best overall performer |
 | **Decision Tree** | 61.52 | 3785.07 | 0.187 | Overfitting, lower accuracy |
 
 ✅ The **Random Forest Regressor** achieved the **best RUL prediction performance**, balancing accuracy and generalization.
